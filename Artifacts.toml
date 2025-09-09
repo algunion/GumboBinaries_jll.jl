@@ -1,0 +1,160 @@
+[[GumboBinaries]]
+arch = "aarch64"
+git-tree-sha1 = "cef2f71ae3c6a1290865ece295aba94c4784731e"
+os = "macos"
+
+    [[GumboBinaries.download]]
+    sha256 = "2a9334a4077d5e3dea67ac141c93d85c9c1e4e29d00d1476a7d7818dc5621860"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.aarch64-apple-darwin.tar.gz"
+[[GumboBinaries]]
+arch = "aarch64"
+git-tree-sha1 = "547cba4e806ab1a314b3b4500dc2f4411ed35adb"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "903042ebe59232c8ac6512a065e62c540f8666ee327789084ceac51441935166"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.aarch64-linux-gnu.tar.gz"
+[[GumboBinaries]]
+arch = "aarch64"
+git-tree-sha1 = "b2b2dfff45b4ca4ae0c6dc869df1195f6817f1fe"
+libc = "musl"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "117f75ecbe0c1740d7408ab11e768e2f2170d674f20825691db5e1566e4debc6"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.aarch64-linux-musl.tar.gz"
+[[GumboBinaries]]
+arch = "aarch64"
+git-tree-sha1 = "66545bd32c0b78fed28355db35eaebc679195b8f"
+os = "freebsd"
+
+    [[GumboBinaries.download]]
+    sha256 = "05da677eed4e976a3c9d361f81b7290d6696eb80769f80e226eeb0f240cf636d"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.aarch64-unknown-freebsd.tar.gz"
+[[GumboBinaries]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "aee9a70f60f9ac5e525840264a1e5061b77ed5f2"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "ca2d29fbb37255052730eed9d9a46003d6fb323e8dea382680c62b8400590583"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.armv6l-linux-gnueabihf.tar.gz"
+[[GumboBinaries]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "55bb5c3d4ee3f23893e4f2f16851418798387cf0"
+libc = "musl"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "8ced2a043a0b2533dd34b5de1713f9910ce9af7851182e1300c954c1ba6aa58a"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.armv6l-linux-musleabihf.tar.gz"
+[[GumboBinaries]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "444b08183d931ad89428605067ab346b52f0f512"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "7ecae8cdbff762964aba3defd7d69d7988180ba520f40f3a2087bac72bab9e15"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.armv7l-linux-gnueabihf.tar.gz"
+[[GumboBinaries]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cb81dd12b86e79b6b5df06edf0712729b54e42ce"
+libc = "musl"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "d6c1b8a8b7d6ca7f4dc9700ff7929f7c1aad7d04b8fbd1a06ba65d7b600b1415"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.armv7l-linux-musleabihf.tar.gz"
+[[GumboBinaries]]
+arch = "i686"
+git-tree-sha1 = "2224bc690eb7b04f1bd6f11e7187a8553c77e452"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "11b99204b6c54324ea4c98aaf01e1fd60faf0d7cdd793aa6397aa4f03f7da1c0"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.i686-linux-gnu.tar.gz"
+[[GumboBinaries]]
+arch = "i686"
+git-tree-sha1 = "bf60de2d95674082c50e9db5ad1b85268aa25efa"
+libc = "musl"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "a9fea49fdbddc9b5fc8a3366a6b7e70b31fa2a33f8658f130a1f2c67b7c3f0a5"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.i686-linux-musl.tar.gz"
+[[GumboBinaries]]
+arch = "i686"
+git-tree-sha1 = "55722ccf1c8ee3f7d189227816bec21aa56e513f"
+os = "windows"
+
+    [[GumboBinaries.download]]
+    sha256 = "5f9f22e24307af0b1db2b1fcf443f3c55536d143fb916a02c68f2586b2e054b6"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.i686-w64-mingw32.tar.gz"
+[[GumboBinaries]]
+arch = "powerpc64le"
+git-tree-sha1 = "2ebfa032b99b71b29292c311b8dc997d19585cca"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "27dcb5f44f929f384fb3353f6b7012179fd88bfce6014010e0ada4053f96824a"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.powerpc64le-linux-gnu.tar.gz"
+[[GumboBinaries]]
+arch = "riscv64"
+git-tree-sha1 = "956917aa6ee9c599f6c723fa133a81117acdefae"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "edefa86c245bb6c2e4c415a9946926a1b1c3334df20bb625261cb2c4646c0e27"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.riscv64-linux-gnu.tar.gz"
+[[GumboBinaries]]
+arch = "x86_64"
+git-tree-sha1 = "654321528162e4b869256dbd951f6ea543153546"
+os = "macos"
+
+    [[GumboBinaries.download]]
+    sha256 = "87c14a8ea9785ca37dbd8f3d3d4e9cc32e750d28a2610ae9f62c4103d6fb8e12"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.x86_64-apple-darwin.tar.gz"
+[[GumboBinaries]]
+arch = "x86_64"
+git-tree-sha1 = "722f79ec0757dca737daca7b3e8d7a831fe0c609"
+libc = "glibc"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "9f9ce54314643ba06d471e6a8969fa4118028a07d75269d89308d3dd93451bf2"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.x86_64-linux-gnu.tar.gz"
+[[GumboBinaries]]
+arch = "x86_64"
+git-tree-sha1 = "c5d0ca2cc5dd447d9f2168f99a862bcb56e6e074"
+libc = "musl"
+os = "linux"
+
+    [[GumboBinaries.download]]
+    sha256 = "852e5318b9c40f583dbc54e16935d2146302d0f96238860207d22d96215cde9f"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.x86_64-linux-musl.tar.gz"
+[[GumboBinaries]]
+arch = "x86_64"
+git-tree-sha1 = "ee3268641c46f58586a6d3caa87f964b9bd2852b"
+os = "freebsd"
+
+    [[GumboBinaries.download]]
+    sha256 = "4f4a18916492ef9a185e154d51538221d31c12212a876cb7c181937d60bc614e"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.x86_64-unknown-freebsd.tar.gz"
+[[GumboBinaries]]
+arch = "x86_64"
+git-tree-sha1 = "d9fc4930821b97ed50fe6da7b3a80bf79352e667"
+os = "windows"
+
+    [[GumboBinaries.download]]
+    sha256 = "d70cff905a035de6e0d4adadf85ca4c073adbb81d19c99f903e5cdf2d26fb940"
+    url = "https://github.com/algunion/GumboBinaries_jll.jl/releases/download/GumboBinaries-v0.13.2+0/GumboBinaries.v0.13.2.x86_64-w64-mingw32.tar.gz"
